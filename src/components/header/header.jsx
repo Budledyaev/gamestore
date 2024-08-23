@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import { CartBlock } from './cart-block/cart-block'
+import { CartBlock } from '../cart-block/cart-block'
 import { Link } from 'react-router-dom'
 
 export const Header = () => {
